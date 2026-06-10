@@ -24,7 +24,6 @@ I am a Computer Science student passionate about software development, problem-s
 ### Programming Languages
 
 * Java
-* JavaScript
 * SQL
 
 ### Core Java
