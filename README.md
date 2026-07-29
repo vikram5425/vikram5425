@@ -1,10 +1,10 @@
 # Hi, I'm Vikram 👋
 
-### B.Sc Computer Science Student | Aspiring Java Developer | DSA Enthusiast
+###  Aspiring Java Developer | DSA Enthusiast
 
 Welcome to my GitHub profile!
 
-I am a Computer Science student passionate about software development, problem-solving, and building real-world applications using Java. I enjoy learning new technologies, practicing Data Structures & Algorithms, and working on projects that strengthen my development skills.
+I am a  passionate about software development, problem-solving, and building real-world applications using Java. I enjoy learning new technologies, practicing Data Structures & Algorithms, and working on projects that strengthen my development skills.
 
 ---
 
@@ -46,11 +46,11 @@ I am a Computer Science student passionate about software development, problem-s
 
 ### Tools & Platforms
 
-* Git
+
 * GitHub
 * VS Code
 * Eclipse
-* IntelliJ IDEA
+  
 
 ### Computer Science Fundamentals
 
