@@ -1,62 +1,65 @@
 # Hi, I'm Vikram 👋
 
-###  Aspiring Java Developer 
+### ☁️ Aspiring Cloud Computing Engineer | Java & SQL Developer
 
 Welcome to my GitHub profile!
 
-I am a  passionate about software development, problem-solving, and building real-world applications using Java. I enjoy learning new technologies, practicing Data Structures & Algorithms, and working on projects that strengthen my development skills.
+I am passionate about Cloud Computing, Software Development, and Problem-Solving. I enjoy exploring cloud technologies, building real-world applications, and learning how modern applications are deployed and managed in cloud environments.
+
+I am also interested in Java development, database management, and continuously improving my technical skills.
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 B.Sc Computer Science Student
-* 💻 Aspiring Java Full Stack Developer
-* 🌱 Currently learning Java, DSA, JDBC, MySQL, and Web Development
-* 🔍 Interested in Software Engineering and Backend Development
+* ☁️ Aspiring Cloud Computing Engineer
+* 💻 Java & SQL Developer
+* 🌱 Exploring AWS and Cloud Computing Fundamentals
+* 🔍 Interested in Cloud Infrastructure, Backend Development, and Software Engineering
 * 🤝 Open to internships, collaborations, and learning opportunities
-* 📚 Continuously improving problem-solving skills
+* 📚 Continuously improving technical and problem-solving skills
 
 ---
 
 ## 🛠 Technical Skills
 
-### Programming Languages
+### ☁️ Cloud Computing
+* Cloud Computing Fundamentals
+* AWS Fundamentals
+* Amazon EC2
+* Amazon S3
+* AWS IAM
+* Amazon VPC
 
+### 💻 Programming Languages
 * Java
 * SQL
 
 ### Core Java
-
 * OOP Concepts
 * Collections Framework
 * Exception Handling
 * Multithreading Basics
 * File Handling
 
-### Database
-
+### 🗄 Database
 * MySQL
 
-### Web Technologies
-
+### 🌐 Web Technologies
 * HTML5
 * CSS3
 * JavaScript
 
-### Tools & Platforms
-
-
+### 🔧 Tools & Platforms
 * GitHub
 * VS Code
-* Eclipse
-  
+* Eclipse IDE
 
-### Computer Science Fundamentals
-
+### 📚 Computer Science Fundamentals
 * Data Structures
 * Algorithms
-* Object-Oriented Design
+* Object-Oriented Programming
 * Problem Solving
 
 ---
@@ -64,23 +67,16 @@ I am a  passionate about software development, problem-solving, and building rea
 ## 📂 Featured Projects
 
 ### Java Chat Client
-
 A console-based Java chat application demonstrating networking concepts, client-server communication, and object-oriented programming.
 
 **Technologies:** Java, Socket Programming
 
----
-
 ### Student Management System
-
 A CRUD-based Java application for managing student records.
 
 **Technologies:** Java, OOP, Collections
 
----
-
 ### Library Management System
-
 A Java application to manage books, members, and transactions.
 
 **Technologies:** Java, File Handling
@@ -89,31 +85,35 @@ A Java application to manage books, members, and transactions.
 
 ## 🎯 Current Goals
 
-* Master Core Java
-* Strengthen Data Structures & Algorithms
-* Learn Spring Boot
-* Build Full Stack Projects
-* Prepare for Software Engineering Interviews
+* Master AWS and Cloud Computing.
+* Understand cloud infrastructure and networking.
+* Gain practical experience with EC2, S3, IAM, and VPC.
+* Learn Linux and basic scripting.
+* Explore Infrastructure as Code and CI/CD.
+* Strengthen Java and SQL programming skills.
+* Build and deploy real-world cloud-based projects.
 
 ---
 
 ## 📈 GitHub Activity
 
-* Regularly building Java projects
-* Practicing DSA problems
-* Improving coding standards
-* Learning industry best practices
+* Building practical Java applications.
+* Exploring AWS cloud services.
+* Practicing Data Structures and Algorithms.
+* Improving coding standards.
+* Exploring cloud deployment and infrastructure.
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub:https://github.com/vikram5425
-* LinkedIn:www.linkedin.com/in/vikram-s-saravanan
-* Email:vikramsaravanan12345@gmail.com
-* portfolio : https://portfolio-2-f8vb.onrender.com/
+* **GitHub:** https://github.com/vikram5425
+* **LinkedIn:** https://www.linkedin.com/in/vikram-s-saravanan
+* **Email:** vikramsaravanan12345@gmail.com
+* **Portfolio:** https://portfolio-2-f8vb.onrender.com/
+
 ---
 
 ## 💡 Motto
 
-"Consistent learning and practice turn beginners into professionals."
+"Consistent learning, practical experience, and curiosity build a better future."
